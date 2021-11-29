@@ -1,0 +1,10 @@
+1. 가상환경 생성
+
+2. 필요 라이브러리 설치
+pip install requirements.txt
+
+2. 가상환경 접속
+conda activate 가상환경명
+
+3. 파일 실행
+streamlit run 파일명
